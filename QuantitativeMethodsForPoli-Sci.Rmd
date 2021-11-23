@@ -1,0 +1,29 @@
+---
+title: "QuantitativeMethodsForPoli-Sci"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(pacman)
+p_load(tidyverse, broom)
+
+
+
+# command opt Iで新たなcode chunk作成
+# command shift Oで目次を開く
+# 日本語を打つときはvisual Markdownを開いた方が良い
+
+```
+
+### このドキュメントの目標
+
+-   『Rによる計量政治学』で諸々復習する
+
+-   {tidyverse}とgitとmarkdownになれる
+
+-   できるだけこのファイルで完結させたい
+
+# 目次
+
+## 
